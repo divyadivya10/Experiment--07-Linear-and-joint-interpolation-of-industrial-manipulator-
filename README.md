@@ -1,5 +1,9 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
+NAME:DIVYA R
+DATE:27/04/2024
+REGISTER NUMBER: 212222040040
+DEPT:CSE
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -38,6 +42,9 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 DART studio screen shots for linear interpolation 
 
+![r1](https://github.com/divyadivya10/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119560271/42788e22-dd95-40a2-8a37-0e828f8d792f)
+
+
 
 
 
@@ -48,6 +55,9 @@ DART studio screen shots for linear interpolation
 
 DART studio screen shots for joint interpolation 
 
+![r2](https://github.com/divyadivya10/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119560271/7566301f-388d-4160-bd4e-12cdabcc15b6)
+
+
 
 
 
@@ -57,6 +67,9 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
+![r3](https://github.com/divyadivya10/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119560271/76286ae1-e7a7-445a-8517-b08e01f4e0e4)
+
+![r4](https://github.com/divyadivya10/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119560271/947dcb9d-fd3c-468d-8207-d5bad8217935)
 
 
 
@@ -70,4 +83,12 @@ DART studio screen shots for joint interpolation
 
 
 
-### Results:  
+
+
+
+### Results: 
+
+Thus linear and joint interpolation of industrial manipulator is studied and understood.
+
+
+
