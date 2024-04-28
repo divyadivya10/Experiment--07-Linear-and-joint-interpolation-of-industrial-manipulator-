@@ -1,9 +1,13 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 NAME:DIVYA R
+
 DATE:27/04/2024
+
 REGISTER NUMBER: 212222040040
+
 DEPT:CSE
+
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
